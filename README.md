@@ -5,7 +5,9 @@ Research on advancement in Education Technology
 - Analysis of technical advancements in higher education.
 - AI based aptitude prediction for students.
 - Careeer Domain Recommendation based AI Systems.
-- Technolgy based advances in modern examination systems.
+- Technology based advances in modern examination systems.
+- Digital Voice Assistant aided classroom lessons
+- Educational  gamification for advanced study plans
 
 ## Publications
 
