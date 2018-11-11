@@ -7,4 +7,18 @@ Research on advancement in Education Technology
 - Careeer Domain Recommendation based AI Systems.
 - Technolgy based advances in modern examination systems.
 
+## Publications
 
+n/a
+
+## Surveys and Studies 
+
+n/a
+
+## Datasets
+
+n/a
+
+## Timelines 
+
+n/a
